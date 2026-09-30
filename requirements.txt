@@ -1,6 +1,11 @@
-﻿pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
+﻿joblib==1.6.0
+matplotlib==3.11.2
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.9.1
+scipy==1.16.3
+seaborn==0.13.2
+shap==0.52.0
+streamlit==1.64.0
+xgboost==3.4.1
+pytest==9.1.1
